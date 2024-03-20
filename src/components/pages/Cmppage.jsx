@@ -1,4 +1,3 @@
-import Example from "../Cpmofgpu";
 
 const cmppage = () => {
   return <div>
