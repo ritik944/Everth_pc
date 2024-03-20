@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Jost:wght@100;200;300;400;500;600;700&family=Libre+Baskerville&display=swap');
+
+body{
+  font-family: 'Jost', sans-serif;
+}
+
+nav{
+  z-index: 10001 !important;
+}
+
+.gradientbg{
+  background: linear-gradient(99deg, #EE9AE5 0%, #5961F9 100%);
+}
+.btnprimary{
+  @apply py-1 px-10 bg-secondary font-semibold text-white rounded hover:bg-primary transition-all duration-300
+}
+.gradienbg1{
+  background: linear-gradient(165deg, white 0%, #5961F9 120%);
+}
+
+.backgroundimg{
+  background-image: url('C:\Users\ritik\Downloads\everth pc\everth pc\everth pc\src\assets\2-3.png');
+  
+  
+  
+}
